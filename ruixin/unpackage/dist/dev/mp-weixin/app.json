@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/menu/menu",
+    "pages/bag/bag",
+    "pages/me/me",
+    "components/HotList/HotList",
+    "pages/detail/detail",
+    "pages/order/order",
+    "pages/search/search",
+    "pages/fav/fav",
+    "pages/orders/orders",
+    "pages/side/side"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/images/home.png",
+        "selectedIconPath": "static/images/home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/menu/menu",
+        "iconPath": "static/images/menu.png",
+        "selectedIconPath": "static/images/menu_active.png",
+        "text": "菜单"
+      },
+      {
+        "pagePath": "pages/bag/bag",
+        "iconPath": "static/images/shopbag.png",
+        "selectedIconPath": "static/images/shopbag_active.png",
+        "text": "购物袋"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "iconPath": "static/images/my.png",
+        "selectedIconPath": "static/images/my_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view class="box data-v-5b9c8edc"><view wx:for="{{a}}" wx:for-item="hot" class="hot data-v-5b9c8edc" bindtap="{{hot.d}}"><image class="data-v-5b9c8edc" src="{{hot.a}}" alt=""></image><view class="data-v-5b9c8edc">{{hot.b}}</view><view class="data-v-5b9c8edc">{{hot.c}}</view><view class="hotbiao data-v-5b9c8edc">hot</view></view></view>
